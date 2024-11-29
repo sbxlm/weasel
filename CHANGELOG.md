@@ -1,3 +1,7 @@
+<a name="9.6.00"></a>
+## Weasel 9.6.00 for Sbxlm (2024-11-29)
+test weasel for sbxlm.
+
 <a name="0.16.3"></a>
 ## [0.16.3](https://github.com/rime/weasel/compare/0.16.2...0.16.3)(2024-10-04)
 
